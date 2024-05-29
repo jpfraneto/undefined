@@ -1,0 +1,16 @@
+{
+  "name": "undefined",
+  "version": "1.0.0",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mint.club-v2-sdk": "^1.0.0"
+  }
+}
